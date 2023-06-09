@@ -1,0 +1,24 @@
+{
+  "name": "demo-code-annotator",
+  "version": "1.0.0",
+  "description": "trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atimathong/demo-code-annotator.git"
+  },
+  "author": "Atima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atimathong/demo-code-annotator/issues"
+  },
+  "homepage": "https://github.com/atimathong/demo-code-annotator#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "generator-code": "^1.7.6",
+    "yo": "^4.3.1"
+  }
+}
